@@ -3,13 +3,13 @@
 Please give a star and link to this repo in your website, so that the project can grow.
 
 <p align="center"> 
-    <a href="https://tasin5541.github.io" target="_blank">
+    <a href="https://ilyabadri.github.io" target="_blank">
     <img src="images/theme.gif" align="center"></img>
     </a>
 </p>
 
 # Demo
-To view a live demo, **[click here](https://tasin5541.github.io/)**
+To view a live demo, **[click here](https://ilyabadri.github.io/)**
 
 # Toggle Theme
 <p align="center"> 
